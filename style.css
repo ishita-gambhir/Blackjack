@@ -1,0 +1,25 @@
+body {
+    padding-top: 2em;
+    background-image: url(./images/bg.jpg);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+#game-name-el {
+    color: goldenrod;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-weight: bolder;
+}
+#draw-card-btn {
+    display: none;
+}
+button {
+    background-color: goldenrod;
+    color:darkgreen;
+    padding: 1em;
+    margin: 1px;
+    border: none;
+    font-weight: bolder;
+    width: 20%;
+}
